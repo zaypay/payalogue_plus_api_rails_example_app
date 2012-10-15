@@ -1,0 +1,29 @@
+// Place all the styles related to the Purchases controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+div.row_wrapper{
+  overflow:hidden;
+  width:600px;
+}
+div.input_wrap, div.label_wrap{
+  overflow:hidden;
+  height:45px;
+}
+
+div.input_wrap{
+  width:300px;
+  padding-left:5px;
+  label{
+    display:inline;
+  }
+}
+
+div.label_wrap{
+  width:200px;
+  float:left;
+}
+
+div#submit_wrapper{
+  line-height:50px;
+}

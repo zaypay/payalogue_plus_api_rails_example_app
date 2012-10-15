@@ -1,0 +1,22 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: 1
+  name: 10 points package
+  description: With this package you get 10 points!
+  payalogue_id: 111111
+  price_setting_id: 222222
+
+two:
+  id: 2
+  name: 20 points package
+  description: 20 points!
+  payalogue_id: 333333
+  price_setting_id: 444444
+
+three:
+  id: 3
+  name: 25 points package
+  description: This is the best price-to-value package!
+  payalogue_id: 555555
+  price_setting_id: 666666
