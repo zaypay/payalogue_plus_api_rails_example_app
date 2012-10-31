@@ -6,7 +6,7 @@ gem 'haml', '3.1.4'
 gem 'httparty', '0.8.1'
 gem 'simple_form', '2.0.1'
 gem 'mongrel', '>= 1.2.0.pre2'
-gem 'zaypay', '1.0.2'
+gem 'zaypay', '1.0.3'
 
 # Gems used only for assets and not required
 # in production environments by default.
